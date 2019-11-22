@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\usama sultan\\source\\repos\\RESTExercise\\RESTExercise.api\\RESTExercise.api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\usama sultan\\source\\repos\\RESTExercise\\RESTExercise.api\\RESTExercise.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\usama sultan\\source\\repos\\RESTExercise\\RESTExercise.api\\RESTExercise.api.csproj",
+        "projectName": "RESTExercise.api",
+        "projectPath": "C:\\Users\\usama sultan\\source\\repos\\RESTExercise\\RESTExercise.api\\RESTExercise.api.csproj",
+        "packagesPath": "C:\\Users\\usama sultan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usama sultan\\source\\repos\\RESTExercise\\RESTExercise.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usama sultan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactorydk.3shape.local/api/nuget/nuget-releases/": {},
+          "https://communicate.pkgs.visualstudio.com/_packaging/Identity/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
